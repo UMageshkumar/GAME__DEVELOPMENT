@@ -1,4 +1,6 @@
 ## EX 5 : TWO DIMENSIONALTRANSFORMATION 
+### NAME: MAGESHKUMAR U
+### REG NO: 212224240085
 
 **AIM**
 
@@ -277,7 +279,15 @@ int main()
 
 
 **Output :**
-
-
+![Screenshot (35)](https://github.com/user-attachments/assets/f77a22c1-a6f0-4634-8d92-53c23cc5aae5)
+![Screenshot (36)](https://github.com/user-attachments/assets/4e8fa9ac-f0b9-44a4-8ffd-8f06e1af3691)
+![Screenshot (37)](https://github.com/user-attachments/assets/1ef583b1-3b90-462a-9ee3-27d8623b4d5a)
+![Screenshot (39)](https://github.com/user-attachments/assets/99e41ca1-8e08-45d6-801c-153349fd85ba)
+![Screenshot (41)](https://github.com/user-attachments/assets/b5fa5a18-dd64-4136-80e3-75d62a515bed)
+![Screenshot (42)](https://github.com/user-attachments/assets/9e92d1de-1572-4d29-aa54-579ffebeb52a)
+![Screenshot (43)](https://github.com/user-attachments/assets/b50f3af5-99e5-4125-94a1-0aef44f49a25)
+![Screenshot (44)](https://github.com/user-attachments/assets/883a64cc-16a0-4f75-8e65-8171a821aae1)
+![Screenshot (45)](https://github.com/user-attachments/assets/606db8c9-dffc-422f-b02a-c87d460cf3b0)
 
 **Result :**
+Successfully completed a C program to implement 2D transformation of image.
